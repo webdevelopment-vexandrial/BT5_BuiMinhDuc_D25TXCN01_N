@@ -9,7 +9,7 @@ function formatPrice(amount) {
 // Giỏ hàng là một đối tượng: { "mã sản phẩm": số lượng }
 // Ví dụ: { "1": 2, "4": 1 } nghĩa là 2 sản phẩm mã 1 và 1 sản phẩm mã 4.
 
-const CART_KEY = "minishop_cart";
+const CART_KEY = "cua_hang_bui_minh_duc_cart";
 
 function getCart() {
     const data = localStorage.getItem(CART_KEY);

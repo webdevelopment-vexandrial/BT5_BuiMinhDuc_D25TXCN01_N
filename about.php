@@ -4,12 +4,12 @@ require __DIR__ . '/includes/init.php';
 $pageTitle = 'Giới thiệu';
 require __DIR__ . '/includes/header.php';
 ?>
-<h2>Giới thiệu MiniShop</h2>
+<h2>Cửa hàng Bùi Minh Đức</h2>
 <img src="<?= url('images/sp01.jpg') ?>" alt="Chuột không dây M1" width="300">
 
 <h3>Chúng tôi là ai</h3>
 <p>
-    MiniShop là cửa hàng trực tuyến chuyên <strong>phụ kiện công nghệ</strong>
+    Cửa hàng Bùi Minh Đức là cửa hàng trực tuyến chuyên <strong>phụ kiện công nghệ</strong>
     dành cho sinh viên. Chúng tôi chọn sản phẩm theo tiêu chí
     <em>bền, dễ dùng và đúng giá</em>.
 </p>
@@ -18,7 +18,7 @@ require __DIR__ . '/includes/header.php';
     Giờ mở cửa: 8:00 - 21:00, tất cả các ngày trong tuần.
 </p>
 
-<h3>Vì sao chọn MiniShop</h3>
+<h3>Vì sao chọn Cửa hàng Bùi Minh Đức</h3>
 <ul>
     <li>Sản phẩm chính hãng, bảo hành 12 tháng</li>
     <li>Giao hàng toàn quốc</li>
@@ -36,7 +36,7 @@ require __DIR__ . '/includes/header.php';
 
 <h3>Liên hệ</h3>
 <p>
-    Email: <a href="mailto:hotro@minishop.example">hotro@minishop.example</a><br>
+    Email: <a href="mailto:hotro@minhduc.example">hotro@minhduc.example</a><br>
     Điện thoại: <a href="tel:0900000000">0900 000 000</a><br>
     Tài liệu tham khảo HTML:
     <a href="https://developer.mozilla.org/vi/docs/Web/HTML"

@@ -3,7 +3,7 @@
 
 
 define('DB_HOST', 'localhost:3307');
-define('DB_NAME', 'minishop');
+define('DB_NAME', 'cua_hang_bui_minh_duc');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 

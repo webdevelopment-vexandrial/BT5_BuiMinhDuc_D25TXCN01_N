@@ -1,5 +1,5 @@
 <?php
-// Các hàm dùng chung của MiniShop.
+// Các hàm dùng chung của Cua hang Bui Minh Duc.
 
 // ===== 1. Hiển thị =====
 
@@ -15,7 +15,7 @@ function format_price($amount)
     return number_format((int) $amount, 0, ',', '.') . ' đ';
 }
 
-// Tạo đường dẫn tuyệt đối trong website: url('cart.php') -> "/minishop/cart.php"
+// Tạo đường dẫn tuyệt đối trong website: url('cart.php') -> "/cua_hang_bui_minh_duc/cart.php"
 function url($path = '')
 {
     return BASE_URL . ltrim($path, '/');

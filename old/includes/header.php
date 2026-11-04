@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MiniShop - Phụ kiện công nghệ</title>
+    <title>Cua hang Bui Minh Duc - Phụ kiện công nghệ</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="js/main.js" defer></script>
 </head>
 <body>
     <!-- ĐẦU TRANG -->
     <header class="site-header">
-        <h1>MiniShop</h1>
+        <h1>Cua hang Bui Minh Duc</h1>
         <nav class="main-nav">
             <a href="index.php">Trang chủ</a>
             <a href="about.php">Giới thiệu</a>

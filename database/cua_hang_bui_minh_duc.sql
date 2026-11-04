@@ -1,5 +1,5 @@
--- MiniShop: cấu trúc bảng và dữ liệu mẫu
--- Chạy trong phpMyAdmin sau khi đã chọn cơ sở dữ liệu minishop
+-- Cua hang Bui Minh Duc: cấu trúc bảng và dữ liệu mẫu
+-- Chạy trong phpMyAdmin sau khi đã chọn cơ sở dữ liệu cua_hang_bui_minh_duc
 
 SET NAMES utf8mb4;
 

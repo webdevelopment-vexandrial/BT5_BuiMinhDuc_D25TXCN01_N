@@ -1,7 +1,7 @@
 <?php
 // Phần PHP: chạy trên máy chủ, người dùng không thấy đoạn code nyaf
 
-$shop = "MiniShop";
+$shop = "Cua hang Bui Minh Duc";
 $hour = (int)date("G"); // Lấy giờ hiện tại (0-23)
 $greeting = $hour < 12 ? "Chào buổi sáng" : ($hour < 18 ? "Chào buổi chiều" : "Chào buổi tối");
 
